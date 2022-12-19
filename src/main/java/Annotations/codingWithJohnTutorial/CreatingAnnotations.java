@@ -1,4 +1,4 @@
-package Annotations;
+package Annotations.codingWithJohnTutorial;
 
 import java.lang.reflect.Method;
 

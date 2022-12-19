@@ -1,4 +1,4 @@
-package Annotations;
+package Annotations.codingWithJohnTutorial;
 
 @VeryImportent
 public class Cat {
